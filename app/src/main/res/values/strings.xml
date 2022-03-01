@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dashboard Profile UI Design</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="alex_m">Alex M.</string>
+    <string name="my_wallet_level_4">My Wallet level 4</string>
+    <string name="btc">BTC</string>
+    <string name="_43_526_89">$43.526.89</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="eth">ETH</string>
+    <string name="_2_897_52">$2,897.52</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="bnb">BNB</string>
+    <string name="_404_40">$404.40</string>
+    <string name="BNB">BNB</string>
+    <string name="xrp">XRP</string>
+    <string name="_0_7666">$0.7666</string>
+    <string name="ripple">Ripple</string>
+    <string name="_16">+16%</string>
+    <string name="_9">+9%</string>
+    <string name="_11">+11%</string>
+    <string name="_8">+8%</string>
+</resources>
